@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 02 22:19:45 IST 2023
+micrometer-registry-influx-1.10.3.jar>central=
+micrometer-registry-influx-1.10.3-sources.jar>central=
+micrometer-registry-influx-1.10.3.pom>central=

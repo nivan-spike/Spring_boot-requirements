@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 02 22:18:02 IST 2023
+spring-boot-3.0.2.jar>central=
+spring-boot-3.0.2.pom>central=
+spring-boot-3.0.2-sources.jar>central=

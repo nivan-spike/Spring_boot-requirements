@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 02 22:10:50 IST 2023
+jackson-dataformat-cbor-2.14.1.jar>central=
+jackson-dataformat-cbor-2.14.1.pom>central=
+jackson-dataformat-cbor-2.14.1-sources.jar>central=
